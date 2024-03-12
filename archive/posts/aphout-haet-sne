@@ -1,0 +1,17 @@
+{
+  "playlist": [
+    {"file": "//ok.ru/videoembed/1925906762425", "episode": "01"},
+    {"file": "//ok.ru/videoembed/1925908269753", "episode": "02"},
+    {"file": "//ok.ru/videoembed/1925915937465", "episode": "03"},
+    {"file": "//ok.ru/videoembed/1925940382393", "episode": "04"},
+    {"file": "//ok.ru/videoembed/1925940579001", "episode": "05"},
+    {"file": "//ok.ru/videoembed/1925940644537", "episode": "06"},
+    {"file": "//ok.ru/videoembed/1925940775609", "episode": "07"},
+    {"file": "//ok.ru/videoembed/1925940841145", "episode": "08"},
+    {"file": "//ok.ru/videoembed/1925940972217", "episode": "09"},
+    {"file": "//ok.ru/videoembed/1925941037753", "episode": "10"},
+    {"file": "https://www.youtube.com/watch?v=7uQTdlx1K60", "episode": "11"},
+    {"file": "https://www.facebook.com/pichpiseyvlogger/videos/1413841959356313", "episode": "12"},
+    {"file": "host/2023/04/post-1", "episode": "13"}
+  ]
+}
